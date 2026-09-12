@@ -1,3 +1,6 @@
+# Sent by stanrifkin in #pascal
+# Sat Sep 12 2026
+
 #!/usr/bin/env perl
 use feature qw(say);
 use Socket  qw(inet_pton AF_INET6);
