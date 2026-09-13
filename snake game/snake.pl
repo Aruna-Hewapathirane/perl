@@ -108,7 +108,7 @@ spawn_apple(); # Initial apple placement
 
 # --- ENGINE TICK TIMEOUT (GAME LOOP STEPS) ---
 Glib::Timeout->add($SPEED_MS, sub {
-    return FALSE if $game_over;
+    #return FALSE if $game_over; 08:53 stanrifkin aruna: Comment out line 111 of your snake game. Else it doesn't restart.
 
     # Calculate where the head is shifting next
     my $head = $snake[0];
