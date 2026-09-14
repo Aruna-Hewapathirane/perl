@@ -1,0 +1,7 @@
+Hello, Perl World!
+Line 2: 1234567890
+Symbols: @#$%^&*()_+~{}[]|:\/;'<,>?=
+Tabs:	[One]	[Two]	[Three]
+Lower: abcdefghijklmnopqrstuvwxyz
+Upper: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
