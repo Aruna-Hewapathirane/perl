@@ -14,5 +14,6 @@ Distance from sensor is 5cm as shown in the ruler
 <img width="1085" height="1018" alt="image" src="https://github.com/user-attachments/assets/efa6ce17-0dbd-443e-b25a-dbbe80fc7522" />
 </br></br>
 
-Perl script running under Debian Linux
+Perl script running under Debian Linux </br></br>
 <img width="562" height="953" alt="image" src="https://github.com/user-attachments/assets/c6e33592-8ddd-458d-a44d-8a24e3dc18ee" />
+
