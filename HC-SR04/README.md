@@ -8,6 +8,7 @@ ranging from 2 cm to 400 cm (approx. 1 inch to 13 feet) with an accuracy of up t
 
 
 <img width="1260" height="708" alt="image" src="https://github.com/user-attachments/assets/9b54be26-1f38-4438-836a-5e4cf73ceb7a" />  
+</br></br>
 
 Distance from sensor is 5cm as shown in the ruler
 <img width="1085" height="1018" alt="image" src="https://github.com/user-attachments/assets/efa6ce17-0dbd-443e-b25a-dbbe80fc7522" />
