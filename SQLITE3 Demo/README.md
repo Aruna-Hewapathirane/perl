@@ -1,4 +1,5 @@
-<img width="663" height="499" alt="image" src="https://github.com/user-attachments/assets/4c502d10-8437-436e-865e-46b2d6756c07" />
+<img width="671" height="507" alt="image" src="https://github.com/user-attachments/assets/cd4affec-6c2f-43c0-b63e-c7ca0d4c4c86" />
+
 
 1. Fill the form then click save.
 2. Your data will populate grid view below
