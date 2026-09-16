@@ -8,3 +8,7 @@
 6. Wash -Rinse -Repeat
 
 [Word of warning, SQLite does not work in UTF8 mode by default AFAIK](https://github.com/bbrtj/perl-brulion-api/blob/master/lib/BrulionAPI/DB.pm#L7)
+
+You may need to install:
+1. sudo apt install libdbi-perl
+2. sudo apt install libdbd-sqlite3-perl
