@@ -2,7 +2,7 @@
 
 1. Fill the form then click save.
 2. Your data will populate grid view below
-3. Double click treeview data row
+3. Double click grid view data row
 4. The form entry text inputs will populate so you can now edit/make changes
 5. Click save
 6. Wash -Rinse -Repeat
