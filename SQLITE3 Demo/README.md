@@ -7,4 +7,4 @@
 5. Click save
 6. Wash -Rinse -Repeat
 
-[word of warning, SQLite does not work in UTF8 mode by default AFAIK](https://github.com/bbrtj/perl-brulion-api/blob/master/lib/BrulionAPI/DB.pm#L7)
+[Word of warning, SQLite does not work in UTF8 mode by default AFAIK](https://github.com/bbrtj/perl-brulion-api/blob/master/lib/BrulionAPI/DB.pm#L7)
