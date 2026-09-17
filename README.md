@@ -2,6 +2,6 @@
 
 <div align="center">
   
-### All applications tested and verified exclusively on a Debian Linux environment.
+### All applications tested on a Debian Linux environment.
 
 </div>
