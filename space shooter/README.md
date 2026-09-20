@@ -1,9 +1,9 @@
-# 🐫 Camel Combat: Gtk3 Onslaught
+## 🐫 Camel Combat: Gtk3 Onslaught
 An action-packed retro 2D vertical space shooter built entirely using **Perl 5**, **Gtk3** UI bindings, and **Cairo** vector graphics mapping layers.
 
 ---
 
-## 🎨 Game Assets
+### 🎨 Game Assets
 Here are the custom sprite mechanics driving the space battlefield.
 
 <table>
@@ -23,7 +23,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 
 ### 👥 Credits & Development
 <sub><b>Designed & Created By:</b> Aruna Hewapathirane</sub></br>
-<sub>Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)</sub>
+<sub><b>Engine Architecture:</b> Pathologically Eclectant Rubbish Listing (*PERL*)</sub>
 
 <sub>* <b>File Name:</b> space_shooter.pl</sub></br>
 <sub>* <b>Description:</b> A 2D vertical arcade shooter using Gtk3 and Cairo graphics.</sub></br>
@@ -35,7 +35,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 <sub>* <b>License:</b> MIT License (or GNU GPLv3, etc.)</sub></br>
 <sub>* <b>Repository:</b> https://github.com---</sub></br>
 
-## 🎮 Game Controls
+### 🎮 Game Controls
 * **Any Key:** Start the game from the splash title screen.
 * **Left Arrow:** Maneuver ship left.
 * **Right Arrow:** Maneuver ship right.
@@ -44,7 +44,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 
 ---
 
-## 🚀 Gameplay Rules & Progression
+### 🚀 Gameplay Rules & Progression
 1. **Dodge the Horde:** Avoid letting incoming enemy ships touch your ship. One collision means instant destruction.
 2. **Collect Points:** Blasting enemy minions awards **+10 points** to your dashboard.
 3. **Level Up Every 100 Points:** Advance through 5 distinct level stages. As you climb, enemies shift colors using library blending arrays, spawn faster, and drop down quicker.
@@ -53,7 +53,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 
 ---
 
-## 🛠️ Installation & Launch Setup
+### 🛠️ Installation & Launch Setup
 
 ### 1. Install System Dependencies
 Ensure your Linux machine (Debian/Ubuntu) has the proper Gtk3 development interpreters and sound compilation engines installed:
