@@ -25,17 +25,17 @@ Here are the custom sprite mechanics driving the space battlefield.
 * **Designed & Created By:** Aruna Hewapathirane
 * **Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)
 * #!/usr/bin/env perl
-**==============================================================================
-* **File Name:    space_shooter.pl
-# Description:  A 2D vertical arcade shooter using Gtk3 and Cairo graphics.
-# Author:       Aruna Hewapathirane
-# Email:        aruna.hewapathirane@gmail.com 
-# Created:      2026-September-20
-# Version:      1.0.0
-# Copyright:    Copyright (c) 2026 Aruna. All rights reserved.
-# License:      MIT License (or GNU GPLv3, etc.)
-# Repository:   https://github.com
-# ==============================================================================
+**==============================================================================**
+* **File Name:**    space_shooter.pl
+* **Description:**  A 2D vertical arcade shooter using Gtk3 and Cairo graphics.
+* **Author:**       Aruna Hewapathirane
+* **Email:**        aruna.hewapathirane@gmail.com 
+* **Created:**      2026-September-20
+* **Version:**      1.0.0
+* **Copyright:**    Copyright (c) 2026 Aruna. All rights reserved.
+* **License:**      MIT License (or GNU GPLv3, etc.)
+* **Repository:**   https://github.com
+**==============================================================================**
 
 ---
 
