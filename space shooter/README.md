@@ -13,7 +13,9 @@ Here are the custom sprite mechanics driving the space battlefield.
     <td align="center"><b>Laser Blast</b></td>
   </tr>
   <tr>
-    <td><img src="player.png" width="120" alt="Player Ship"></td>
+    <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/8a939434-4e43-48c1-9be7-d92b4e91b6a1" />
+
+    <td><img src="https://github.com/user-attachments/assets/8a939434-4e43-48c1-9be7-d92b4e91b6a1" width="120" alt="Player Ship"></td>
     <td><img src="enemy.png" width="120" alt="Enemy Alien"></td>
     <td><img src="laser.png" width="30" alt="Laser Bolt"></td>
   </tr>
