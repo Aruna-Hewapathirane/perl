@@ -1,4 +1,5 @@
 <img width="508" height="648" alt="image" src="https://github.com/user-attachments/assets/64abf77f-f06f-43b1-9020-dd717ed8e163" /></br></br>
+<img width="508" height="648" alt="image" src="https://github.com/user-attachments/assets/62ac2e03-71c2-4e2d-bf8b-07181ba6d49c" />
 
 Here are the instructions to play Shooter. You can print these out or keep them handy while playing!
 
