@@ -22,7 +22,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 ---
 
 ## 👥 Credits & Development
-<sub>Designed & Created By:** Aruna Hewapathirane</sub>
+<sub><b>Designed & Created By:</b> Aruna Hewapathirane</sub>
 <sub>Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)</sub>
 
 * File Name:    space_shooter.pl
