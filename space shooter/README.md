@@ -1,3 +1,75 @@
+# 🐫 Camel Combat: Gtk3 Onslaught
+An action-packed retro 2D vertical space shooter built entirely using **Perl 5**, **Gtk3** UI bindings, and **Cairo** vector graphics mapping layers.
+
+---
+
+## 🎨 Game Assets
+Here are the custom sprite mechanics driving the space battlefield.
+
+<table>
+  <tr>
+    <td align="center"><b>Player Ship</b></td>
+    <td align="center"><b>Hostile Alien</b></td>
+    <td align="center"><b>Laser Blast</b></td>
+  </tr>
+  <tr>
+    <td><img src="player.png" width="120" alt="Player Ship"></td>
+    <td><img src="enemy.png" width="120" alt="Enemy Alien"></td>
+    <td><img src="laser.png" width="30" alt="Laser Bolt"></td>
+  </tr>
+</table>
+
+---
+
+## 👥 Credits & Development
+* **Designed & Created By:** Aruna
+* **Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*) 
+
+---
+
+## 🎮 Game Controls
+* **Any Key:** Start the game from the splash title screen.
+* **Left Arrow:** Maneuver ship left.
+* **Right Arrow:** Maneuver ship right.
+* **Spacebar:** Hold or tap to discharge lasers.
+* **R Key:** Instant game reset (use on *Game Over* or *Victory* screens).
+
+---
+
+## 🚀 Gameplay Rules & Progression
+1. **Dodge the Horde:** Avoid letting incoming enemy ships touch your ship. One collision means instant destruction.
+2. **Collect Points:** Blasting enemy minions awards **+10 points** to your dashboard.
+3. **Level Up Every 100 Points:** Advance through 5 distinct level stages. As you climb, enemies shift colors using library blending arrays, spawn faster, and drop down quicker.
+4. **Final Boss Encounter:** Crossing **400 points** triggers the Final Boss fight. Drain its health bar to secure total **Victory** and claim a **+1000 point completion bonus**!
+5. **High Score Tracker:** Your all-time record is automatically written and stored in a local `highscore.txt` data file.
+
+---
+
+## 🛠️ Installation & Launch Setup
+
+### 1. Install System Dependencies
+Ensure your Linux machine (Debian/Ubuntu) has the proper Gtk3 development interpreters and sound compilation engines installed:
+```bash
+sudo apt-get update
+sudo apt-get install libgtk3-perl libcairo-perl alsa-utils sox
+```
+
+### 2. Generate Your Sound FX
+Run these quick synthetic macros in your project terminal to generate the high-quality native `.wav` files used by the sound system:
+```bash
+sox -n -r 11025 -c 1 fire.wav synth 0.5 sine 2200-800 fade q 0.01 0.5 0.4
+sox -n -r 11025 -c 1 explosion.wav synth 0.3 whitenoise lowpass 1200 fade q 0.01 0.3 0.25
+```
+
+### 3. Run the Game!
+Ensure your `player.png`, `enemy.png`, and `laser.png` pictures are inside the folder, then boot the script:
+```bash
+chmod +x space_shooter.pl
+./space_shooter.pl
+```
+
+
+
 <img width="508" height="648" alt="image" src="https://github.com/user-attachments/assets/64abf77f-f06f-43b1-9020-dd717ed8e163" /></br></br>
 <img width="508" height="648" alt="image" src="https://github.com/user-attachments/assets/62ac2e03-71c2-4e2d-bf8b-07181ba6d49c" />
 
