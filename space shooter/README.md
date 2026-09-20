@@ -22,9 +22,8 @@ Here are the custom sprite mechanics driving the space battlefield.
 ---
 
 ## 👥 Credits & Development
-<sub>
-* **Designed & Created By:** Aruna Hewapathirane
-* **Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)
+<sub>Designed & Created By:** Aruna Hewapathirane</sub>
+<sub>Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)</sub>
 
 * File Name:    space_shooter.pl
 * Description:**  A 2D vertical arcade shooter using Gtk3 and Cairo graphics.
