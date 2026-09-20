@@ -25,15 +25,15 @@ Here are the custom sprite mechanics driving the space battlefield.
 <sub><b>Designed & Created By:</b> Aruna Hewapathirane</sub></br>
 <sub>Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)</sub>
 
-* <b>File Name:</b> space_shooter.pl
-* <b>Description:</b> A 2D vertical arcade shooter using Gtk3 and Cairo graphics.
-* <b>Author:</b> Aruna Hewapathirane
-* <b>Email:</b> aruna.hewapathirane@gmail.com 
-* <b>Created:</b> 2026-September-20
-* <b>Version:</b> 1.0.0
-* <b>Copyright:</b> Copyright (c) 2026 Aruna. All rights reserved.
-* <b>License:</b> MIT License (or GNU GPLv3, etc.)
-* <b>Repository:</b> https://github.com---
+<sub>* <b>File Name:</b> space_shooter.pl</sub></br>
+<sub>* <b>Description:</b> A 2D vertical arcade shooter using Gtk3 and Cairo graphics.</sub></br>
+<sub>* <b>Author:</b> Aruna Hewapathirane</sub></br>
+<sub>* <b>Email:</b> aruna.hewapathirane@gmail.com</sub></br> 
+<sub>* <b>Created:</b> 2026-September-20</sub></br>
+<sub>* <b>Version:</b> 1.0.0</sub></br>
+<sub>* <b>Copyright:</b> Copyright (c) 2026 Aruna. All rights reserved.</sub></br>
+<sub>* <b>License:</b> MIT License (or GNU GPLv3, etc.)</sub></br>
+<sub>* <b>Repository:</b> https://github.com---</sub></br>
 
 ## 🎮 Game Controls
 * **Any Key:** Start the game from the splash title screen.
