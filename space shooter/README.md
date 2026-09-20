@@ -21,7 +21,7 @@ Here are the custom sprite mechanics driving the space battlefield.
 
 ---
 
-## 👥 Credits & Development
+### 👥 Credits & Development
 <sub><b>Designed & Created By:</b> Aruna Hewapathirane</sub></br>
 <sub>Engine Architecture:** Pathologically eclectant rubbish listing (*PERL*)</sub>
 
