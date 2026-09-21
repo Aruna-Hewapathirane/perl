@@ -1,7 +1,7 @@
 <img width="605" height="596" alt="image" src="https://github.com/user-attachments/assets/614b345d-2337-46cc-8ccb-c53aa9236358" />
 
 
-# Stix Arcade Clone - Play Instructions
+# STIX Arcade Clone - Play Instructions
 
 ## Game Goal
 Your objective is to claim territory by carving up the screen. You must capture **75% or more** of the empty black space to clear the stage and advance to the next level. 
