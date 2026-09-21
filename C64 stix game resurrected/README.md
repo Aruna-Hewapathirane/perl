@@ -1,6 +1,6 @@
 <img width="605" height="596" alt="image" src="https://github.com/user-attachments/assets/614b345d-2337-46cc-8ccb-c53aa9236358" />
 
-## The Commodore 64 game Stix was written by Andrew Trott and published by Supersoft in 1983. It is a home computer version of the 1981 arcade game Qix by Taito
+<b>The Commodore 64 game Stix was written by Andrew Trott and published by Supersoft in 1983. It is a home computer version of the 1981 arcade game Qix by Taito</b>
 
 # STIX Arcade Clone - Play Instructions
 
