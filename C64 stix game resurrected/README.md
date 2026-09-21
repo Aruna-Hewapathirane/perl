@@ -15,32 +15,6 @@ Each new level increases the number of bouncing Stix enemies roaming the field.
 | 🔁 **Restart Game** | **R Key** | Restarts the game from Stage 1 after a **Game Over**. |
 
 ---
-<table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: left;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th>Action</th>
-      <th>Control Key</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🕹️ <strong>Movement</strong></td>
-      <td><strong>Arrow Keys</strong></td>
-      <td>Controls your light-cyan player dot across the grid.</td>
-    </tr>
-    <tr>
-      <td>🔄 <strong>Toggle Mode</strong></td>
-      <td><strong>Spacebar</strong></td>
-      <td>Switches drawing speed modes (<strong>only works while safe on blue walls</strong>).</td>
-    </tr>
-    <tr>
-      <td>🔁 <strong>Restart Game</strong></td>
-      <td><strong>R Key</strong></td>
-      <td>Restarts the game from Stage 1 after a <strong>Game Over</strong>.</td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
