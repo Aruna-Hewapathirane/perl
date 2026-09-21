@@ -1,3 +1,6 @@
+<img width="605" height="596" alt="image" src="https://github.com/user-attachments/assets/614b345d-2337-46cc-8ccb-c53aa9236358" />
+
+
 # Stix Arcade Clone - Play Instructions
 
 ## Game Goal
