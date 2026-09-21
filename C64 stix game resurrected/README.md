@@ -16,8 +16,6 @@ Each new level increases the number of bouncing Stix enemies roaming the field.
 
 ---
 
----
-
 ## Mechanics & Scoring System
 
 * 🛡️ **The Safe Zone (Blue Walls):** You start on the blue outer border. As long as you stay on the blue lines, you are safe from enemies.
