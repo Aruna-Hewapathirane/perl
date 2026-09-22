@@ -20,10 +20,16 @@ You control a spaceship at the bottom of the screen, navigating a scrolling star
 ### 💀 Game Over
 If an enemy ship or the boss collides with your spaceship, it is **Game Over**. You can press any key to reset your score to 0, return to Level 1, and try again.
 
-
-| Image 1 | Image 2 |
-| :---: | :---: |
-| !([path/to/image1.png](https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6)) | !([path/to/image2.png](https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530)) |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6" width="300" alt="First Image"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530" width="300" alt="Second Image"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Caption for Image 1</b></td>
+    <td align="center"><b>Caption for Image 2</b></td>
+  </tr>
+</table>
 <img width="606" height="846" alt="image" src="https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6" />
 
 <img width="610" height="854" alt="image" src="https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530" />
