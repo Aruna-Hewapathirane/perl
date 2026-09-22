@@ -22,14 +22,12 @@ If an enemy ship or the boss collides with your spaceship, it is **Game Over**. 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6" width="300" alt="First Image"></td>
-    <td><img src="https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530" width="300" alt="Second Image"></td>
+    <td><img src="https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6" width="400" alt="First Image"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530" width="400" alt="Second Image"></td>
   </tr>
   <tr>
-    <td align="center"><b>Caption for Image 1</b></td>
-    <td align="center"><b>Caption for Image 2</b></td>
+    <td align="center"><b>Start Screen</b></td>
+    <td align="center"><b>Final Boss Screen</b></td>
   </tr>
 </table>
-<img width="606" height="846" alt="image" src="https://github.com/user-attachments/assets/cdd570cc-0afe-459a-a82c-1b40069140e6" />
 
-<img width="610" height="854" alt="image" src="https://github.com/user-attachments/assets/cc645764-c6dd-4d10-80ca-ed720dd81530" />
