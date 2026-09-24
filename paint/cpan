@@ -1,0 +1,14 @@
+# cpanfile
+# Prerequisites for Perl Paint Clone Application
+
+requires 'perl', '>= 5.014'; # Matches your use feature ':5.14';
+
+# Core structural dependency layers
+requires 'Gtk3';
+requires 'Cairo::GObject';
+requires 'Pango';
+
+# Ensures testing frameworks track cleanly during deployment pipelines
+on 'test' => sub {
+    requires 'Test::More', '>= 0.88';
+};
