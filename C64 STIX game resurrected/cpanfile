@@ -1,0 +1,10 @@
+# Core Perl minimum version for this script
+requires 'perl', '5.006';
+
+# Core pragmas and platform engines
+requires 'strict', '0';
+requires 'warnings', '0';
+
+# Graphic UI and Vector canvas modules
+requires 'Gtk3', '0';
+requires 'Cairo', '0';
