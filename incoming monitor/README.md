@@ -6,26 +6,26 @@
 
 In one terminal, open a listener:
 
-bash
-nc -l 8080
+` bash
+nc -l 8080`
 
 In another, connect to it:
 
-bash
-nc 127.0.0.1 8080
+`bash
+nc 127.0.0.1 8080`
 
 A row should appear with source 127.0.0.1 and local port 8080. It will be white, because loopback counts as LAN.
 
 You’ll also see attempts to ports where nothing is listening, since the SYN packet shows up either way:
 
-bash
+`bash
 nc -zv 127.0.0.1 9999
-2. Port scan detection
+2. Port scan detection`
 
 This hits 20 different ports from one source, which should turn rows red and flag them “PORT SCAN?” after the 10th distinct port:
 
-bash
-for p in $(seq 9000 9019); do nc -z -w1 127.0.0.1 $p; done
+`bash
+for p in $(seq 9000 9019); do nc -z -w1 127.0.0.1 $p; done`
 
 Or, if you have nmap installed:
 
