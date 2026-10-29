@@ -32,4 +32,12 @@ The scan counter is per source IP and stays until you press Clear. That’s why 
 
 #### 3. Test from another device (more realistic)
 
-Find your desktop’s LAN address with `ip -4 addr (something like 192.168.1.x).` Then from a phone or another computer on your network, run `nmap -p 1-100 <that-ip>`, or just open `http://<that-ip>:8080` in a browser while nc -l 8080 is running. You’ll see a different source IP, which is closer to what a real probe looks like.
+Find your desktop’s LAN address with:
+`ip -4 addr (something like 192.168.1.x)` 
+
+Then from a phone or another computer on your network, run 
+`nmap -p 1-100 <that-ip>`, 
+
+or just open `http://<that-ip>:8080` in a browser while nc -l 8080 is running. 
+
+You’ll see a different source IP, which is closer to what a real probe looks like.
