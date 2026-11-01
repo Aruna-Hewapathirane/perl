@@ -2,8 +2,8 @@
 
 To install the dependencies and start it:
 
-Debian/Ubuntu: sudo apt install libgtk3-perl libcairo-perl
-Anywhere else: cpanm Gtk3 Cairo
+Debian/Ubuntu: sudo apt install libgtk3-perl libcairo-perl</br>
+Anywhere else: cpanm Gtk3 Cairo</br>
 Run: perl morris.pl
 
 How it plays
