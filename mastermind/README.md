@@ -1,8 +1,8 @@
-<table>
+<table border=0>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1f626523-d9e9-4398-b0ce-96c6e860df79" />"</td>
+    <td><img src="https://github.com/user-attachments/assets/1f626523-d9e9-4398-b0ce-96c6e860df79" /></td>
     <td width="40"></td>
-    <td><img src="https://github.com/user-attachments/assets/cf789d2a-5ab4-4e4d-9621-8deaf762e28e" />"</td>
+    <td><img src="https://github.com/user-attachments/assets/cf789d2a-5ab4-4e4d-9621-8deaf762e28e" /></td>
   </tr>
 </table>
 
